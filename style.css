@@ -1,0 +1,78 @@
+* {
+    font-family: poppins, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.produto {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 32px;
+    letter-spacing: 0.875px;
+    text-align: center;
+}
+
+.botao {
+    border-radius: 6px;
+    background: #6fbf44;
+    border: 1px solid #4cb538;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+    color: white;
+    width: 125px;
+    height: 51px
+}
+
+.imagem-principal {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154;
+    color: #161a49;
+    width: 493px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: #4b505a;
+    letter-spacing: 0.5px;
+    width: 493px;
+    margin-top: 47px;
+    margin-bottom: 55;
+}
+
+.link {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6fbf44;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    }
+
+    
